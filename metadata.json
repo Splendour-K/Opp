@@ -1,0 +1,8 @@
+{
+  "name": "Opportunity Hub",
+  "description": "A comprehensive platform for curated grants, investments, and professional growth opportunities with AI-driven matching and discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
